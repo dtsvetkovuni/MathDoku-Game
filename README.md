@@ -1,10 +1,14 @@
 # MathDoku-Game
 A Sudoku like game on Java also called KenKen. <br>
-This program is a game of MathDoku.<br>
-It is made using Java 11 jdk and JavaFX 11 sdk.<br>
+You can read about how the MathDoku game is played here (https://en.wikipedia.org/wiki/KenKen).<br>
+
+It was part of a Southampton Uni Programming 2 Coursework in 2020.<br>
+It was made only using Java 11 jdk and JavaFX 11 sdk(no CSS due to specifications).<br>
 
 In order to run it you must have JAVA JDK 11 or above and JavaFX 11 sdk installed on your computer.<br>
 Tested on Windows 10, Linux with a FullHD screen.
+
+<img src="https://user-images.githubusercontent.com/59044933/120568304-84679f80-c40b-11eb-90fe-2b7a94b2fd0a.PNG" width="516" height="518"/>
 
 ## [Compilation And Running]
  * If you have **javafx-sdk-11.0.2 or newer** installed in the default java directory to run the program you can open the **RUN.bat** file which will flash a CMD terminal and minimize it, the MathDoku will load and show up in a second.<br>
@@ -28,4 +32,6 @@ Pressing play will start a new randomly generated game with the specified size o
 ## [Game Guide]
 For instructions on gameplay and options check the **instructions.pdf** inside the MathDoku Game folder<br>
 
-Thanks for playing!
+<img src="https://user-images.githubusercontent.com/59044933/120568793-88e08800-c40c-11eb-9bcd-672f0d85b375.PNG" width="576" height="478"/>
+
+**Thanks for playing!**
